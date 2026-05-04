@@ -10,4 +10,4 @@
 
 ### IR Capture Demo
 Para ver el video de la captura infrarroja:
-[Mira el video aquí](VID_20260504_021.mp4)
+[Mira el video aquí](VID_20260504_021544~2.mp4)
